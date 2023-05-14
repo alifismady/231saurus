@@ -1,0 +1,21 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/231saurus/blog/welcome"
+    },
+    {
+      "title": "MDX Blog Post",
+      "permalink": "/231saurus/blog/mdx-blog-post"
+    },
+    {
+      "title": "Long Blog Post",
+      "permalink": "/231saurus/blog/long-blog-post"
+    },
+    {
+      "title": "First Blog Post",
+      "permalink": "/231saurus/blog/first-blog-post"
+    }
+  ]
+}
